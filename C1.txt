@@ -1,0 +1,3 @@
+Caracteristica V1
+Modificado
+Modificación verifica funcionamiento de stash
